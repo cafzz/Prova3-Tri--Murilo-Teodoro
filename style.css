@@ -1,0 +1,15 @@
+body{
+    background-color: darkcyan;
+    font-size: medium;
+    font-style: oblique;
+    font: oblique;
+    justify-content: center;
+    margin: 2px;
+    padding: 2px;
+}
+.igiari{
+    width: 50%;
+}
+.Holdit{
+    width: 50%;
+}
